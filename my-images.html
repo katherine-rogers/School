@@ -1,0 +1,88 @@
+img {
+  width: 10%;
+  height: auto;
+} 
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+<img src="paris.jpg" alt="Paris">  
+<html lang="en">
+
+<head>
+  <title>My three images </title>
+
+  <style>
+    body {
+      background-color:#8A2BE2;
+      background-image: radial-gradient(circle at 20.05% 17.47%, #8B008B, transparent 100%),radial-gradient(circle at 97.98% 71.06%, #8A2BE2, transparent 100%),radial-gradient(circle at 50.65% 50.72%, #4B0082, transparent 100%),radial-gradient(circle at 50% 50%, #000000, #000000 100%);
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center;
+    }
+
+    /* img and figure tags will affect all of those elements in the document */
+    img {}
+
+    figure {}
+
+    /* the following rules apply to specific elements */
+    #one {
+      border: 150px solid rgb(202, 80, 176);
+      border-radius: 37% 63% 70% 30% / 30% 30% 70% 70%;
+      box-shadow: 0px 0px 40px yellow;
+    } 
+
+    #two {opacity: .5;}
+
+    #three {
+      width: 100%;
+      height: 100%;
+      height: calc(100vh - 4em);
+      margin: 1em;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      will-change: filter;
+      /* optimize filter changes */
+      background-image: url(images/mood.jpg);
+      filter: sepia(100%) brightness(66%);
+}
+    }
+  </style>
+</head>
+
+<body>
+  <h1>My three images</h1>
+
+  <p>The images that i am showing are a picture or giorno I drew.</p>
+
+  <!-- image with an id -->
+  <img src="https://i.postimg.cc/VNFkVj95/jojo.jpg" alt=" id="one"> 
+
+  <!-- image inside a box with an id -->
+  <div id="two">
+    <img src="https://i.postimg.cc/VNFkVj95/jojo.jpg"
+      alt="Giorno because he is a joestar too.">
+  </div>
+
+  
+
+  <!-- addition of a figure tag that adds caption. preferred method for accessibility. slightly different default formatting, but we can change that -->
+  <figure>
+    <img src="https://i.postimg.cc/VNFkVj95/jojo.jpg" alt="giorno">
+    <figcaption>Giorno because i love him, but not dio. </figcaption>
+  </figure>
+
+</body>
+
+</html> 
+ 
+   <div>
+  <img src=https://i.postimg.cc/4NLcyRjB/dio.jpg> 
+  </div> 
+                                                                  <p>more like a good father.</p>
