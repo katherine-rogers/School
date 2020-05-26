@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>animation.html</title>
+
+    <style>
+div {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+} 
+
+@keyframes example {
+  0%   {background-color:purple; left:0px; top:0px;}
+  25%  {background-color:aqua; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:purple; left:0px; top:200px;}
+  100% {background-color:blue; left:0px; top:0px;}
+   } 
+}
+ 
+* {
+  box-sizing: border-box;
+}
+
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background: purple;
+  text-align: center;
+  color: pink;
+  font-size: 3em; 
+} 
+body {
+    background: pink;
+    width: 80%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 2rem;
+} 
+ 
+    </style>
+</head>
+
+<body>
+<div></div>
+
+<h1>heehee</h> 
+
+<div></div>
+ 
+<div class="item" data-aos="slide-up">bruh</div>
+
+<div class="item" data-aos="flip-up">hola</div> 
+</body>
+
+</html>
