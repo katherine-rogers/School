@@ -2,12 +2,49 @@
     <title>template</title>
 
     <style>
-<!-- css goes here -->
+ {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow); /* Standard syntax (must be last) */
+}
     </style>
 </head>
 
 <body>
-<!-- html goes here -->
+<h2>Hobbies to learn during quarantine</h2>
+
+<ol>
+  <img src=https://i.postimg.cc/dV1RMcpy/bake.jpg> 
+  </div>  
+  <li>Baking</li>
+<img src=https://i.postimg.cc/mDQC3Lz0/knit.jpg> 
+  </div>  
+  <li>Knitting</li>
+<img src=https://i.postimg.cc/Z5CN7FvP/sew.jpg> 
+  </div>  
+  <li>Sewing</li>
+<img src=https://i.postimg.cc/gjgw4nYB/paint.jpg> 
+  </div>  
+  <li>Painting</li>
+<img src=https://i.postimg.cc/jdjn2QcV/sketch.jpg> 
+  </div>  
+  <li>Sketching</li>
+<img src=https://i.postimg.cc/kg6VFJLf/write.jpg> 
+  </div>  
+  <li>Writing</li>
+<img src=https://i.postimg.cc/SKcJ3ZS9/animate.jpg> 
+  </div>  
+  <li>Animation</li>
+<img src=https://i.postimg.cc/nV3My9J3/gameing.jpg> 
+  </div>  
+  <li>Gaming</li>
+<img src=https://i.postimg.cc/P5wxv687/lego.jpg> 
+  </div>  
+  <li>Lego building</li>
+
+  
+</ol> 
+
 </body>
 
 </html>
