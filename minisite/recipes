@@ -2,12 +2,108 @@
     <title>template</title>
 
     <style>
-<!-- css goes here -->
+body { 
+  background: lightblue url("img_tree.gif") no-repeat fixed center; 
+}
     </style>
 </head>
 
 <body>
-<!-- html goes here -->
+<h1>Recipes</h1>
+
+<h3>Peanut Butter and Jelly Doughnuts</h3>
+<p>Ingredients
+
+    2 packages (1/4 ounce each) active dry yeast
+    1/4 cup warm water (110° to 115°)
+    3/4 cup warm full-fat milk (110° to 115°)
+    5 tablespoons unsalted butter, at room temperature
+    1/3 cup granulated sugar, plus more for rolling the doughnuts in
+    1 egg yolk + 1 egg, at room temperature
+    1 teaspoon salt
+    3 and 3/4 cups all-purpose flour
+    1/4 cup jelly
+    1/4 cup Jif Creamy Peanut Butter
+    1 egg white, lightly beaten
+    2 cups Crisco Vegetable Oil, for frying</p>
+
+<p>Instructions
+
+    In a small bowl dissolve yeast in warm water, set aside and allow it to foam up; about 5 minutes.
+    In a large bowl combine warm milk and butter, whisk until butter has completely dissolved. Add in sugar, egg yolk and egg, salt, yeast mixture and 3 cups flour; beat until smooth. Stir in enough remaining flour to form a soft ball of dough (don't knead the dough just yet).
+    Place ball of dough in a lightly greased bowl, turning once to grease top. Cover tightly with saran wrap and let rise in a warm place for 1 hour.
+    When the hour has passed:
+    Punch the dough down and turn it onto a lightly floured surface; knead 8 times.
+    Divide the dough in half, creating two even sized balls of dough.
+    Roll each portion out to 1/4-in. thickness. Cut each side with a lightly floured 2-1/2-in. round cutter. Place 1/2 teaspoon of peanut butter and 1/2 teaspoon jelly in the center of half of the circles. Brush the edges lightly with egg white, then top with remaining circles. Press the edges together tightly to seal.
+    Place on greased baking sheet. Cover and let rise until doubled, about 45 minutes.
+    When ready to fry, heat oil to 360°. Fry doughnuts, a few at a time, for 1-2 minutes on each side or until golden brown. Drain on paper towels, then roll the warm doughnuts in extra sugar.</p> 
+
+<h3>Key lime bars</h3>
+<p>12 ingredients
+Produce
+
+    3 Key limes
+    1 Lime, Zest of
+
+Refrigerated
+
+    4 Egg yolks, large
+
+Condiments
+
+    1/2 cup Lime juice
+
+Baking & Spices
+
+    1 cup Cool whip
+    1 Pinch Kosher salt
+    1/4 cup Sugar 
+Oils & Vinegars
+
+    1 Cooking spray
+
+Snacks
+
+    9 Graham crackers
+
+Dairy
+
+    6 tbsp Butter
+    1 (14-oz.) can Condensed milk, sweetened
+    4 oz Cream cheese </p>
+
+<p>
+Directions
+
+    Preheat oven to 350° and grease an 8"-x-8” pan with cooking spray. Make crust: Add crushed graham crackers to a bowl with butter and sugar and mix until combined. Press tightly into prepared pan. Bake for 10 minutes.
+    In a large bowl using a hand mixer, beat cream cheese until smooth. Add sweetened condensed milk, egg yolks, lime juice, and salt and beat until combined. Pour onto prepared crust and bake 15 to 20 minutes, until filling is completely set. Place in refrigerator to cool before slicing, at least 2 hours up to overnight. 
+    Cut into squares and top with a dollop of whipped cream, lime zest, and a lime wedge.
+
+</p>
+<h3>Chocolate chip cookies</h3>
+<p>    1 cup salted butter* softened
+    1 cup white (granulated) sugar
+    1 cup light brown sugar packed
+    2 tsp pure vanilla extract
+    2 large eggs
+    3 cups all-purpose flour
+    1 tsp baking soda
+    ½ tsp baking powder
+    1 tsp sea salt***
+    2 cups chocolate chips (or chunks, or chopped chocolate)
+
+US Customary - Metric</p>
+<p>Step 1
+
+Preheat oven to 350 degrees F (175 degrees C).
+Step 2
+
+Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.
+Step 3
+
+Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.
+</p>
 </body>
 
 </html>
