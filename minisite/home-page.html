@@ -4,25 +4,54 @@
 
 <head>
     <title>minisite</title>
-<link rel="stylesheet" type"text/css" href="main.css">
+<link rel="stylesheet" type"text/css" href="main.css"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #00BFFF;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #00CED1;
+  color: white;
+}
     </style>
 </head>
 
 <body>
-<h1>Quarantine Essentials</h1>
-
-<h2>Here is a list that will direct you to different pages about my quarantine essentials. </h2>
 <nav>
 <ul>
-  <li><strong><a href="anime" target="_blank">anime</a></strong>
-        </li>
-  <li><strong><a href="recipes" target="_blank">recipes</a></strong>
-        </li><li><strong><a href="hobbies" target="_blank">hobbies</a></strong>
-        </li>
- 
+<div class="topnav">
+  <a class="active" href="#home">anime</a>
+  <a href="#news">recipes</a>
+  <a href="#contact">hobbies</a>
+</div>
 </ul>
-    </nav>
+    </nav> 
+<div style="padding-left:16px">
+  <h2>Quarantine Essentials</h2>
+  <p>Here is a list that will direct you to different pages about my quarantine essentials. </p>
+</div> 
 </body>
-</html> 
+
+</html>
